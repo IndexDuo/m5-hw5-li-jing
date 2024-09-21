@@ -3,11 +3,11 @@
 }
 
 body {
-    background: url("leaves.png");
+    background: url("images/leaves.png");
     font-family: Inter, sans-serif;
     color: #2c3959;
     /* margin: 0; */
-    overflow:hidden;
+    overflow: hidden;
 }
 
 div#banner {
