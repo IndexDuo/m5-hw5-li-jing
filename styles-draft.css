@@ -1,0 +1,84 @@
+body {
+    background: url("leaves.png");
+    font-family: Inter, sans-serif;
+
+    color: #2c3959;
+}
+
+header {
+    float: left;
+}
+
+nav {
+    text-align: center;
+    background-color: white;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    /* margin-bottom: 20px; */
+    /* width: 100%; */
+    border: 1px solid #2c3959;
+}
+
+nav > ul {
+    overflow: hidden;
+    list-style-type: none;
+}
+
+nav > ul > li {
+    float: left;
+}
+
+nav a {
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+    float: left;
+    width: 40%;
+    margin-left: 15%;
+    margin-right: 10px;
+}
+
+main section {
+    padding-bottom: 200px;
+
+}
+
+section img {
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+}
+
+img {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+section p {
+    letter-spacing: 1px;
+    line-height: 1.5;
+}
+
+aside {
+    background-color: white;
+    float: left;
+    border: 1px solid #2c3959;
+}
+
+aside ul {
+    list-style-type: none;
+}
+
+aside img {
+    float: left;
+    width: 50px;
+}
+
+footer {
+    clear: both;
+    background-color: #25472a;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
