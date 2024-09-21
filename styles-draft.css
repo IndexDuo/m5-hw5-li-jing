@@ -1,3 +1,7 @@
+/* This is my draft css file.
+Please disregard.
+*/
+
 body {
     background: url("leaves.png");
     font-family: Inter, sans-serif;
@@ -42,7 +46,6 @@ main {
 
 main section {
     padding-bottom: 200px;
-
 }
 
 section img {
